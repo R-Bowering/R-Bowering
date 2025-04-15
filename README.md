@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @R-Bowering
+
+NOTE: This is no longer my active github account
+- 👋 Hi, I’m Victoria (@R-Bowering)
 - 👀 I’m interested in music and Linux
-- 🌱 I’m currently learning deeper understanding of linux
-        through building a low spec second desktop for Arch
-- 📫 How to reach me 
+- 📫 How to reach me @Victoria1877 on github or victoriab1877 on gmail.
 
 <!---
 R-Bowering/R-Bowering is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
